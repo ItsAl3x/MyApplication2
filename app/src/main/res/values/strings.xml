@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="dos_mitades">Dos Mitades</string>
+    <string name="dos_palabras">Dos Palabras</string>
+    <string name="quitar_fragmento">Quitar Fragmento</string>
+    <string name="back">Volver atras</string>
+</resources>
