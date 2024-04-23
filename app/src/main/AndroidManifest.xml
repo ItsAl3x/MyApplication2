@@ -21,14 +21,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".loginActivity"
-            android:exported="true"
-            android:label="My application">
-        <intent-filter>
-            <action android:name="android.intent.action.MAIN" />
-            <category android:name="android.intent.category.LAUNCHER" />
-        </intent-filter>
-        </activity>
+
+        <activity android:name=".LoginActivity"></activity>
     </application>
+
 
 </manifest>
